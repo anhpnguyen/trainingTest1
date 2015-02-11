@@ -8,10 +8,8 @@
 
 	echo('Title:');
 	echo($Title);
-	echo($file);
+	echo($file['name']);
 	echo($Comment);
 ?>
 </body>
 </html>
-
-SELECT * FROM anh_nguyen;
